@@ -1,0 +1,6 @@
+27380
+3715221
+
+This time a wider gap appears, however I'm not quite sure why it's better. I thought we did this exercise to show off the
+power of the Morton ordering, but it seems it's not very good at kernel math. I may also have just done something wrong
+with my implementation, but I've read and reread so many articles at this point that I've had enough of this lab.

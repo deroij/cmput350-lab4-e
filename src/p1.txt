@@ -1,0 +1,6 @@
+24671 347898375840389362
+24756 347898375840389362
+
+I also ran this code 3 more times, the output varied from the first option running faster to the second running faster,
+at a variance of about ~100 microseconds, therefore I don't see much change between the two options as I couldn't find
+a clear winner.
